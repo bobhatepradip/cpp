@@ -1,0 +1,3 @@
+FileCompare Result
+0
+Hello World
